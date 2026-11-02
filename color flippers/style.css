@@ -1,0 +1,37 @@
+button {
+    border: 1px solid black;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border-style: outset;
+}
+
+#green {
+    background-color: green;
+    border-radius: 3px;
+
+}
+
+#red {
+    background-color: red;
+
+    color: white;
+
+}
+
+#blue {
+    background-color: blue;
+    color: white;
+}
+
+#random {
+    background-color: rgb(210, 222, 82);
+}
+
+#light {
+    background-color: white;
+}
+
+#dark {
+    background-color: rgba(0, 0, 0, 0.916);
+    color: white;
+}
