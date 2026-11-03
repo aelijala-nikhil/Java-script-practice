@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.961);
+    color: white;
+    font-size: 3rem;
+}
+
+input {
+    font-size: 2rem;
+}
+
+button {
+    font-size: 2rem;
+    padding: 2px 15px;
+    border-radius: 5px;
+}
